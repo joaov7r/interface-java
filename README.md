@@ -1,1 +1,3 @@
+Dando sequência nos meus estudos em Java, fiz esse programa para praticar a implementação de interfaces. O programa representa um aluguel de carro, onde o usuário informa o modelo do carro, a data de retirada e a data de devolução, o preço por hora e por dia e, de acordo com as regras de taxa, são calculados os pagamentos básico, de imposto e o valor total com o imposto incluído.
+
 Continuing my studies in Java, I made this program to practice implementing interfaces. The program represents a car rental, where the user informs the car model, the pick-up and return date, the price per hour and per day and, in accordance with the tax rules, the basic payments, tax and the total amount with tax included are calculated.
